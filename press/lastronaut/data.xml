@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Lastronaut</title>
+	<release-date>February, 2015</release-date>
+	<website>http://www.lastronautgame.com/</website>
+
+	<platforms>
+		<platform>
+			<name>Apple App Store</name>
+			<link>http://www.itunes.com/</link>
+		</platform>
+	</platforms>
+
+	<prices>
+		<price>
+			<currency>Free</currency>
+		</price>
+	</prices>
+
+	<description>
+	It's time to leave the planet you loved behind.
+
+	The year is 2015: Mankind has created the first sentient machine: a humanoid robot. If we only knew what would happen next, we probably could have saved ourselves. Now, we’re abandoning the only planet we’ve ever known.
+
+	Lastronaut is a pixel-packed, adrenaline-fueled dash for your life as you run, jump, dodge and fire your way through the machine army, equipped with an arsenal of human and robotic weapons to cause mayhem with. At dawn, as the rest of humanity lifts off in the distance, it’s your mission to reach the last rocket ship leaving Earth. Your life depends on it.
+
+	</description>
+	
+	<history>
+	In development for 2 years, this is the first game from Darrin Henein and Stephan Leroux.
+	</history>
+
+	<features>
+		<feature>Infinite gameplay, providing hours of increasing challenge.</feature>
+		<feature>A multitude of weapons.</feature>
+		<feature>Beautiful, hand-crafted artwork and animation and original music</feature>
+		<feature>Chaotic action, slow-mo effects, explosions, and more explosions!</feature>
+		<feature>Local gameplay stats: distance travelled, total kills, and more.</feature>
+		<feature>Global leaderboards and world ranking through Game Center.</feature>
+		<feature>Plenty of achievements to find!</feature>
+		<feature>Save and share your final moments to Facebook or Twitter</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Release Trailer</name>
+			<youtube>QhK4wveutBA</youtube>
+		</trailer>
+	</trailers>
+	
+<!-- 	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards> -->
+	
+<!-- 	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote>
+	</quotes> -->
+	
+<!-- 	<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>
+	</additionals> -->
+	
+	<credits>
+		<credit>
+			<person>Darrin Henein</person>
+			<role>Art, Music and Programming</role>
+		</credit>
+		<credit>
+			<person>Stephan Leroux</person>
+			<role>Programming</role>
+		</credit>
+	</credits>
+</game>

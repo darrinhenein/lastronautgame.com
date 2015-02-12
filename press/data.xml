@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Henein/Leroux</title>
+	<founding-date>March, 2012</founding-date>
+	<website>http://www.darrinhenein.com/</website>
+	<based-in>Toronto, Ontario</based-in>
+	
+	<press-contact>darrinhenein@gmail.com</press-contact>
+	<phone>+1 905 505 1457</phone>
+	<!-- <address>
+		<line>Address Line 1</line>
+		<line>Address Line 2</line>
+		<line>Address Line 3</line>
+	</address> -->
+
+	<socials>
+		<social>
+			<name>Darrin Henein</name>
+			<link>twitter.com/darrinhenein</link>
+		</social>
+		<social>
+			<name>Stephan Leroux</name>
+			<link>facebook.com/stephanleroux</link>
+		</social>
+	</socials>
+
+	<description>	
+		Darrin Henein and Stephan Leroux are two Toronto-based software developers who push to make software that people love.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Darrin and Steph met in 2010 while working at a Toronto-based mobile startup, where Darrin was working as the Director of Design and Experience, and Steph crafting code for our Blackberry, Windows Phone, Android and iPhone apps. In 2013, when Darrin showed Steph an early prototype of what later became Lastronaut, the bond was formed.</text>
+		</history>
+	</histories>
+
+	<!-- <quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes> -->
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Darrin Henein</person>
+			<website>www.darrinhenein.com</website>
+			<role>Artist, Animator, Composer, Programmer</role>
+		</credit>
+		<credit>
+			<person>Stephan Leroux</person>
+			<role>Programmer</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>darrinhenein@gmail.com</mail>
+		</contact>
+	</contacts>
+</game>
