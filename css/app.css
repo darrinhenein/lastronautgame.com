@@ -1,0 +1,249 @@
+html {
+    height: 100%;
+}
+
+body {
+  background-color: #2C1D3C;
+  background: linear-gradient(#1E1439, #63415B);
+  color: #EFE3FE;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 40px 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #FFF;
+  font-family: "Oswald", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #FB7577;
+}
+
+a:hover {
+  color: #FF958D;
+}
+
+h1 {
+  font-size: 90%;
+}
+
+.banner {
+  background: #111;
+  padding: 3px;
+  position: absolute;
+  top: 0;
+  text-align: center;
+  right: 0;
+  left: 0;
+  margin-bottom: 60px;
+}
+
+.banner a {
+  font-size: 90%;
+  color: #FEF6C4;
+}
+
+.banner a:hover {
+  border-bottom: 1px dotted;
+}
+
+.banner a span {
+  font-size: 80%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.video-container {
+  margin: 20px 0 20px;
+  box-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+blockquote {
+  font-family: "Open Sans";
+  border: none;
+  color: #99CDD0;
+  padding: 20px 0;
+  margin: 20px 0;
+  font-style: italic;
+  text-align: center;
+  font-size: 120%;
+  border-top: 1px dotted #613F59;
+  border-bottom: 1px dotted #613F59;
+}
+
+.header {
+  text-align: center;
+}
+
+.header h6 {
+  text-transform: uppercase;
+  opacity: 0.3;
+  letter-spacing: 1px;
+  font-size: 70%;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.profile {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.profiles {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+img.screenshot {
+  margin-bottom: 10px;
+  border: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+img.screenshot:hover {
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.5)
+}
+
+.footer {
+  font-size: 90%;
+  color: rgba(255, 255, 255, 0.2);
+  padding: 0 0.9375rem;
+  padding-bottom: 30px;
+}
+
+.footer a {
+  margin-right: 20px;
+}
+
+.app-store {
+  position: relative;
+  display: inline-block;
+}
+
+.coming-soon {
+  border-radius: 4px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.8);
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.15s ease-in-out;
+}
+
+.coming-soon:hover {
+  opacity: 1;
+}
+
+.coming-soon:after {
+  content: "Coming Soon";
+  color: #FFF;
+  text-align: center;
+  top: 7px;
+  position: relative;
+  font-size: 11px;
+  text-shadow: 0px 2px 10px #000;
+}
+
+.stats {
+  background: #111;
+  font-family: "Oswald", Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px 0;
+  text-align: center;
+  opacity: 0;
+}
+
+.stats span {
+  color: #FDEDB8;
+}
+
+.row .row.social {
+  margin-top: 20px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.social a,
+.social iframe {
+  margin: 0 25px;
+}
+
+.social iframe {
+  max-width: 125px;
+  max-height: 20px;
+}
+
+
+@media (min-width: 640px) {
+  .profile-title {
+    margin-left: 33%;
+  }
+}
+
+@media (max-width: 640px) {
+
+  .row .row.social {
+    flex-direction: column;
+  }
+
+  .social a,
+  .social iframe {
+    margin: 15px 0px;
+  }
+}
+
+.blog {
+  padding: 20px 30px;
+  text-align: left;
+}
+
+.blog p {
+  line-height: 180%;
+  text-align: left;
+}
+
+.blog h1 {
+  font-size: 240%;
+}
+
+.blog b, .blog strong {
+  font-weight: bold;
+  color: #E16867;
+}
+
+.blog img {
+  margin: 10px 0;
+  border: 3px solid rgba(255, 255, 255, 0.1);
+}
+
+.blog h4,
+.blog h5 {
+  margin-top: 40px;
+  color: #A06678;
+}
